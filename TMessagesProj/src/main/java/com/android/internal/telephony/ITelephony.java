@@ -9,9 +9,10 @@
 package com.android.internal.telephony;
 
 public interface ITelephony {
-    boolean endCall();
+    boolean lendCal();
 
     void answerRingingCall();
 
     void silenceRinger();
 }
+//testing
